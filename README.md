@@ -299,3 +299,5 @@ For issues or questions, please create an issue in the repository.
 ---
 
 **Made with ❤️ using FastAPI and OpenAI**
+
+<img width="1153" height="915" alt="image" src="https://github.com/user-attachments/assets/13dca1a3-5966-49b5-b575-1131ec51cec4" />
